@@ -2,6 +2,7 @@
 
 
 ## 目录结构
+```shell
 .
 ├── public                           // 静态资源     
 ├── src                              // 业务代码
@@ -20,5 +21,6 @@
 │   └── utils                        // 工具方法
 ├── README.md                        // readme
 └── package.json                     // package.json
+```
 
 18 directories, 12 files
