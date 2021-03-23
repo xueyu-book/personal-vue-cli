@@ -9,7 +9,7 @@
 │   ├── api                          // api 请求
 │   ├── assets                       // 资源文件
 │   ├── components                   // 公用组件
-│   ├── directives                   // 自定义组件
+│   ├── directives                   // 自定义指令
 │   ├── filters                      // 过滤器
 │   ├── layout                       // 布局
 │   ├── mixins                       // mixins
