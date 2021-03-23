@@ -1,0 +1,22 @@
+{
+  "name": "personal-vue-cli",
+  "version": "1.0.0",
+  "description": "a personal-vue-cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xueyu-book/personal-vue-cli.git"
+  },
+  "keywords": [
+    "vue-cli"
+  ],
+  "author": "xueyubook@163.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xueyu-book/personal-vue-cli/issues"
+  },
+  "homepage": "https://github.com/xueyu-book/personal-vue-cli#readme"
+}
